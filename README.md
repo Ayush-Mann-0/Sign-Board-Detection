@@ -49,7 +49,6 @@ The current model can detect and classify:
 - 🏥 Hospital boards
 - 📋 Other sign boards
 - 🏫 School boards
-- 🚦 Traffic signals
 
 ## 🛠️ Technical Architecture
 
