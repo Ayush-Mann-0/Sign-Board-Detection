@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 <p align="center">
-  <img src="app/src/main/res/drawable/logo.png" alt="SBD Logo" width="200"/>
+  <img src="app_logo.png" alt="SBD Logo" width="200"/>
 </p>
 
 **Real-time Road Sign Detection Android Application using TensorFlow Lite**
