@@ -178,12 +178,8 @@ Actual performance may vary based on:
 ## 🔮 Future Enhancements
 
 * [ ] Expand sign classification database
-* [ ] Add cloud model updating capability
-* [ ] Implement offline maps integration
 * [ ] Add detection statistics and analytics
-* [ ] Support for custom sign training
 * [ ] Multi-language UI support
-* [ ] Dark theme implementation
 
 ## 🤝 Contributing
 
