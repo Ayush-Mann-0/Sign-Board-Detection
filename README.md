@@ -91,7 +91,7 @@ The current model can detect and classify:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/road-sign-detection.git
+   git clone https://github.com/Ayush-Mann-0/Sign-Board-Detection
    ```
 2. Open the project in Android Studio
 3. Sync the project with Gradle files
